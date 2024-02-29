@@ -1,3 +1,3 @@
-i am just chilling
+to be a better man
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=jamesdongdong&theme=minimal" /> </div>
+[![James's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesdongdong&theme=minimal)]()
