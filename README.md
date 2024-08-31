@@ -1,1 +1,1 @@
-Be cool
+I like cooking, especially Chinese and Japanese food.
